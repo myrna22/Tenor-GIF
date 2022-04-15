@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 96%;
+    margin: auto;
+}
+#hello {
+    width: 90%;
+    height: 350px;
+}
+
+#welkom{
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+#header{
+    width: 90%;
+    text-align: center;
+    background-color: rgb(242, 235, 226);
+}
+
+#search, #number {
+    width: 200px;
+    height: 25px;
+    background-color: blue;
+    color: aquamarine;
+    border-radius: 3px;
+}
+
+#btn{
+    width: 50px;
+    background-color: rgb(39, 146, 106);
+    color: white;
+}
+
